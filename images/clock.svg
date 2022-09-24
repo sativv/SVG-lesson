@@ -1,0 +1,12 @@
+<svg width="240" heigth="240" fill="none" xmlns="https://www.w3.org/2000/svg">
+    <symbol id="clock" viewbox="0 0 240 240">
+                <circle cx="110" cy="110" r="100" fill="black"/>
+                <polyline points="60,120 110,120  110,65" stroke="white" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+    </symbol>
+            </svg>
+
+
+
+             <svg width="240" heigth="240" viewbox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="110" cy="110" r="100" fill="black"/>
+                <polyline points="60,120 110,120  110,65" stroke="white" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>

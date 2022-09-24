@@ -1,0 +1,10 @@
+<svg width="240" heigth="240" fill="none"  version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="delete-symbol" viewbox="0 0 240 240">
+        <circle cx="110" cy="110" r="100" fill="red"/>
+
+
+        <!-- JAG FÖRSTÅR INTE VARFÖR CIRKELN BLIR AVSKUREN?!?!?!?!-->
+
+
+    </symbol>
+</svg>
