@@ -8,9 +8,32 @@
     <title>SVG</title>
 </head>
 <body>
-    <svg>
-         
-    </svg>
-    
+    <main>
+        <div class="symbol-clock">
+            <svg width="240" heigth="240" viewbox="0 0 240 240" fill="none" xmlns="https://www.w3.org/2000/svg">
+                <circle cx="110" cy="110" r="100" fill="black"/>
+                <polyline points="60,120 110,120  110,65" stroke="white" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
+
+            </svg>
+        </div>
+        <!--<div>
+            <svg width="240" heigth="240" viewbox="-10 -10 240 240" fill="none" xmlns="https://www.w3.org/2000/svg">
+                <rect x="0" y="0" width="180" height="120" stroke="black" stroke-width="12" stroke-linejoin="round"></rect>
+                <polyline points="0,0 90,60 180,4" stroke="black" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+        </div> -->
+        <div>
+            <svg>
+                <use href="images\letter.svg#letter-symbol"></use>
+            </svg>
+        </div>
+
+
+        <div>
+            <svg>
+                <use href="images/delete.svg#delete-symbol"></use>
+            </svg>
+        </div>
+    </main> 
 </body>
 </html>
